@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calculator-with-redux/static/css/main.a376a541.css",
+    "main.js": "/calculator-with-redux/static/js/main.ea9d98fe.js",
+    "index.html": "/calculator-with-redux/index.html",
+    "main.a376a541.css.map": "/calculator-with-redux/static/css/main.a376a541.css.map",
+    "main.ea9d98fe.js.map": "/calculator-with-redux/static/js/main.ea9d98fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a376a541.css",
+    "static/js/main.ea9d98fe.js"
+  ]
+}
